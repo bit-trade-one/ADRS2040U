@@ -117,7 +117,7 @@
 
 # 動作確認用サンプルプログラムの実行
 
-　サンプルプログラム3種を，図11の様にRaspberry Pi 4上に準備します．
+　サンプルプログラム3種を，図11の様にRaspberry Pi 4上に準備します．  
  [サンプルプログラムはこちらより取得可能です。](https://github.com/bit-trade-one/ADRS2040U/tree/master/Sample/ADRS2040U_SampleSource)  
  ![image](https://user-images.githubusercontent.com/85532743/209272535-6ad654c6-fb1a-4411-8d3b-6c0ce8a0028f.png)  
 
