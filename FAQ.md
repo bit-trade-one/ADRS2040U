@@ -4,11 +4,9 @@
 
 ## Q.XXXとはなんですか？
 
-### A.YYYです。結論がここにドカンと　見出し\#行で上下1行空けるのはMarkdownの書式
+### A.YYYです。
 
-Lorem ipsum dolor sit amet, consectetur  
-返答の詳細がバーっと  
-adipiscing elit, sed do eiusmod tempor incididunt ut  
+zzz
 
 ---
 
