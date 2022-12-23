@@ -19,7 +19,7 @@
 
 # ソフトウェアの構成
 
-### DRS2040U
+### ADRS2040U
 　ADRS2040UのファームウェアはMicroPython上で動作するものとします．  
  MicroPythonのIDEはRaspberry Pi 4に標準でインストールされているThonnyを使用します．
 ### Raspberry Pi 4
