@@ -5,16 +5,11 @@
 (製品説明後日記載)
 
 
-## [製品HPリンク](http://bit-trade-one.co.jp/) 
+## 製品HPリンク
 
-### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### マニュアル
 
-### [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+### [ADRS2040U の動作確認・サンプルソフト](https://github.com/bit-trade-one/ADRS2040U/tree/master/Sample)  
 
 ### [Q&A](FAQ.md)
 
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
