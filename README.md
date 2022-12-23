@@ -7,8 +7,6 @@
 
 ## 製品HPリンク
 
-### マニュアル
-
 ### [ADRS2040U の動作確認・サンプルソフト](https://github.com/bit-trade-one/ADRS2040U/tree/master/Sample)  
 
 ### [Q&A](FAQ.md)
