@@ -1,4 +1,4 @@
-# ADXXXXX-Template よくある質問
+# ADRS2040U-RaspberryPi-RP2040-Stack-board よくある質問
 
 ---
 
