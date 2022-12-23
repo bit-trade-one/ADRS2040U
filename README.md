@@ -13,3 +13,7 @@
 
 ### [Q&A](FAQ.md)
 
+### [回路図](https://github.com/bit-trade-one/ADRS2040U/tree/master/Schematics)
+
+### [基板図](https://github.com/bit-trade-one/ADRS2040U/tree/master/Dimensions)
+
