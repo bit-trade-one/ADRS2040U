@@ -1,2 +1,2 @@
 # filelist
-・SchematicsADRS2040U_PCBV1.pdf(回路図)
+・ADRS2040U_SchematicsV1.pdf(回路図)
