@@ -141,10 +141,11 @@ $ python3 ADRS2040U_test.py
 
 # 実行結果の確認
 
-  ADRS2040U側のプログラム，およびRaspberry Pi 4側のプログラムの両方を実行後，コンソールには図14の様にLM35の温度計測結果が1秒毎に表示されます．    
-  ![image](https://user-images.githubusercontent.com/85532743/209272682-cfb868fc-6df1-45ae-a931-18aabe76e9de.png)  
+  ADRS2040U側のプログラム，およびRaspberry Pi 4側のプログラムの両方を実行後，  
+  コンソールには図14の様にLM35の温度計測結果が1秒毎に表示されます．    
+  ![image](https://user-images.githubusercontent.com/85532743/209761432-13e01bde-301a-4dc8-a2d3-e359481db688.png)  
   
-　実行中のI2Cバスの状態をロジックアナライザで観測した結果を図15に示します． 
+　実行中のI2Cバスの状態をロジックアナライザで観測した結果を図15に示します．   
   コマンド0x20でLEDを点灯し，コマンド0x10で2バイトの温度データを取得し，コマンド0x20でLEDを消灯しています．  
   ![image](https://user-images.githubusercontent.com/85532743/209273785-50d680af-cbc4-453c-ad37-dff82153d16c.png)  
 
