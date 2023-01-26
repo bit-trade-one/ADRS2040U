@@ -1,4 +1,4 @@
-# ADRS2040U-RaspberryPi-RP2040-Stack-board
+# ADRS2040U-RaspberryPi-RP2040-Unit
 
 ![製品画像]()
 
