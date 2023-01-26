@@ -1,3 +1,3 @@
 # filelist
 
-・ADRS2040U_PCBV1.pdf(基板図)
+・ADRS2040U_PCBVxx.pdf(基板図)
