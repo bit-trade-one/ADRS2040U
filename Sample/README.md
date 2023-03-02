@@ -88,7 +88,7 @@
  
 ① i2cSlave.py(リスト1)  
 　Raspberry Pi PicoのMicroPythonでI2Cのスレーブデバイスを実現するためのモジュールです．  
- danjperron氏によって[Raspberry Piフォーラムに投稿](https://forums.raspberrypi.com/viewtopic.php?t=302978#p1823668)されたi2cSlave.pyモジュールに表2に示すの2つの関数を追加しています．
+ danjperron氏によって[Raspberry Piフォーラムに投稿](https://forums.raspberrypi.com/viewtopic.php?t=302978#p1823668)されたi2cSlave.pyモジュールに表2に示すの2つの関数を追加しています．  
  
   表2 追加関数
  
@@ -154,4 +154,4 @@ $ python3 ADRS2040U_test.py
 # まとめ
 
  今回I2Cバスを使用して，ADRS2040UとRaspberry Pi 4の通信を実施しましたが，本ボードには他にSPIバスも利用可能です．  
- また，本ボードにはありませんが，シリアル通信を利用することも可能です．使用目的に合致したインタフェースを持つオリジナルHAT開発の参考にしていただければ幸いです．  
+ また，シリアル通信を利用することも可能です．使用目的に合致したインタフェースを持つオリジナルHAT開発の参考にしていただければ幸いです．  
