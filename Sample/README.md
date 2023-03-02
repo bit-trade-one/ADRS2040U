@@ -72,7 +72,7 @@
   図9の様にShellにMicroPythonの起動メッセージとプロンプトが表示されます．  
 　もし，MicroPythonが接続されていない場合は，ウインドウ右下をクリックし，図10の様に表示されるメニューから「MicroPython(Raspberry Pi Pico」を選択します．  
 　また，「MicroPython(Raspberry Pi Pico」を選択できない場合には，ハードウェアやMicroPythonの書込みを再確認してください．  
- <img src="https://user-images.githubusercontent.com/85532743/209271687-308bed3f-9b97-4988-9c57-25cf3a5e3f91.png" width="720px">  
+ <img src="https://user-images.githubusercontent.com/85532743/222305579-fcd7091e-f611-4711-a232-92d55e9ec5bb.png" width="720px">  
 
 # 動作確認用サンプルプログラムについて
 
